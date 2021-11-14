@@ -4,9 +4,9 @@ Android app that can track, view and alert the user on their spending monthly an
 
 ## Technologies Used
 
-Flutter
-Firebase Database
-Firebase Authentication
+Flutter<br>
+Firebase Database<br>
+Firebase Authentication<br>
 
 A few resources to get you started if this is your first Flutter project:
 
