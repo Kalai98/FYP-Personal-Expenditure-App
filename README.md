@@ -1,10 +1,12 @@
-# fyp
+# Personal Expenditure App
 
-A new Flutter application.
+Android app that can track, view and alert the user on their spending monthly and reward the user based on their update on spending.
 
-## Getting Started
+## Technologies Used
 
-This project is a starting point for a Flutter application.
+Flutter
+Firebase Database
+Firebase Authentication
 
 A few resources to get you started if this is your first Flutter project:
 
